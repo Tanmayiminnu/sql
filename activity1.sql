@@ -13,4 +13,3 @@ INSERT INTO supplier (SNO, SNAME, STATUS,CITY
 ('S5', 'Adams', 30, 'Athens');
 
 SELECT * FROM supplier;
-
